@@ -41,7 +41,7 @@ The project includes utilities for training and validating models, hyperparamete
 ## Tech Stack
 
 - **Language:** Python 3.8+
-- **Core Libraries:** PyTorch, scikit-learn, NumPy, Pandas, Tkinter
+- **Core Libraries:** PyTorch, scikit-learn, NumPy, Pandas, Tkinter, Openpyxl
 - **Data:** Synthetic dataset (Excel format) for demonstration
 
 ---
